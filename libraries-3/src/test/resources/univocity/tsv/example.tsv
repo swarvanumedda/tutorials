@@ -1,0 +1,5 @@
+#Employee records, this line is ignored
+Id	Name	DOB	Address	Company	Salary
+1	Erik Ekhedal	19840114	10/3, 34 PNCRoad	Electrolux	10000
+2	Swarvanu Medda	19901230	Howrah, "Kolkata"	 	2000
+3	Jens Roland	19810310		Dell	12000

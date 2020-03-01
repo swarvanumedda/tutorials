@@ -1,0 +1,5 @@
+# Employee records, this line is ignored
+IdName__________DOB_____Address__________Company___Salary
+1_Erik Ekhedal__1984011410/3, 34 PNCRoad_Electrolux10000_
+2_Swarvanu Medda19901230Howrah, "Kolkata"__________2000__
+3_Jens Roland___19810310_________________Dell______12000_
